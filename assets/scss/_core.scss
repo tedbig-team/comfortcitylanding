@@ -1,0 +1,41 @@
+/*!===================================================================================
+Template Name: Deltax Html5 template
+Template URL:
+Description:
+Author: LepordTheme
+Version: 1.0.0
+Created: March 2022
+===================================================================================*/
+
+// User colors
+@import 'user-colors';
+
+// Variables
+@import "variables";
+
+// User variables
+@import 'user-variables';
+
+// Utilities
+@import "utilities";
+
+// Theme Root
+@import "theme/root";
+
+// Bootstrap
+@import "bootstrap";
+
+// Bootstrap Utilities API
+@import "bootstrap/utilities/api";
+
+// Theme
+@import "theme/theme";
+
+// Bootstrap Helpers
+@import "helpers";
+
+// User
+@import 'user';
+
+
+
